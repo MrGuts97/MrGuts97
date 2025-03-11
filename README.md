@@ -6,7 +6,7 @@ I am recent in to the cyber secruity role after being medicilty discharged from 
 
 ## Objective
 
-My journey in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Im always practicing to keep my skills to a high standard.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
